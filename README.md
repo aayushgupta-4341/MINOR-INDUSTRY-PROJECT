@@ -105,6 +105,7 @@ corporate-website/
 
 ```
 
+
 🔹 Deployment
 This website is ready for deployment on Vercel or Netlify.
 
@@ -116,6 +117,8 @@ https://github.com/aayushgupta-4341/MINOR-INDUSTRY-PROJECT.git
 
 
 
+
+```plaintext
 Evaluation Coverage
 -----------------------------------------------------------------------------|
 Criteria	                  |             Covered?                            |
@@ -129,6 +132,8 @@ Deployment & Documentation | ✅ Ready-to-deploy, professional README         |
 
 This project prioritizes structure, maintainability, and professional execution over decorative design, fulfilling internship requirements.
 
+```
+
 
 🔹 References / Inspiration
 
@@ -139,6 +144,7 @@ Infosys Corporate Website
 Accenture Corporate Website
 
 Used for layout structure, professional UI inspiration, and lead form implementation approach. All code is original and implemented by the developer.
+
 
 
 🔹 Author
