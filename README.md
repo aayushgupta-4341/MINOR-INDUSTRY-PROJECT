@@ -90,7 +90,7 @@ This project simulates a **real client delivery engagement**.
 
 ## 🔹 Folder Structure
 
-```plaintext
+
 corporate-website/
 │
 ├── index.html          # Main landing page
@@ -99,7 +99,7 @@ corporate-website/
 ├── js/
 │   └── script.js       # JavaScript validation logic
 ├── assets/
-│   ├── images/         # Hero, service, case study images
+│   ├── images/         # Hero, service, case study, testinomial images
 │   └── logo/           # Company logo
 └── README.md           # This documentation
 
