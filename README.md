@@ -120,15 +120,15 @@ https://github.com/aayushgupta-4341/MINOR-INDUSTRY-PROJECT.git
 
 ```plaintext
 Evaluation Coverage
------------------------------------------------------------------------------|
-Criteria	                  |             Covered?                            |
------------------------------------------------------------------------------|   |
-Code Quality & Structure   |✅ Semantic HTML5, modular CSS, organized folder |
-UI Professionalism	      |✅ Hero, services, case studies, testimonials    |
-Responsiveness	            | ✅ Mobile-first, Bootstrap 5 grid, media queries|
-JavaScript Logic	         | ✅ Lead form validation, success messages       |
-Deployment & Documentation | ✅ Ready-to-deploy, professional README         |
------------------------------------------------------------------------------|
+------------------------------------------------------------------------------- 
+Criteria	                  |             Covered?                            
+------------------------------------------------------------------------------- 
+Code Quality & Structure   | ✅ Semantic HTML5, modular CSS, organized folder    
+UI Professionalism	      | ✅ Hero, services, case studies, testimonials     
+Responsiveness	            | ✅ Mobile-first, Bootstrap 5 grid, media queries
+JavaScript Logic	         | ✅ Lead form validation, success messages         
+Deployment & Documentation | ✅ Ready-to-deploy, professional README         
+--------------------------------------------------------------------------------
 
 This project prioritizes structure, maintainability, and professional execution over decorative design, fulfilling internship requirements.
 
