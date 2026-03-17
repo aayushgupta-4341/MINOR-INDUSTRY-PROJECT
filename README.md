@@ -103,6 +103,16 @@ corporate-website/
 │   └── logo/           # Company logo
 └── README.md           # This documentation
 
+🔹 Deployment
+
+This website is ready for deployment on Vercel or Netlify.
+
+Live Demo Link (Vercel):
+https://minor-industry-project-fronted.vercel.app/
+
+GitHub Repository Link:
+https://github.com/aayushgupta-4341/MINOR-INDUSTRY-PROJECT.git
+
 Evaluation Coverage
 -----------------------------------------------------------------------------|
 Criteria	                  |             Covered?                            |
