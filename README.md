@@ -89,7 +89,7 @@ This project simulates a **real client delivery engagement**.
 ---
 
 ## 🔹 Folder Structure
-
+```plaintext
 
 corporate-website/
 │
@@ -103,8 +103,9 @@ corporate-website/
 │   └── logo/           # Company logo
 └── README.md           # This documentation
 
-🔹 Deployment
+```
 
+🔹 Deployment
 This website is ready for deployment on Vercel or Netlify.
 
 Live Demo Link (Vercel):
@@ -112,6 +113,8 @@ https://minor-industry-project-fronted.vercel.app/
 
 GitHub Repository Link:
 https://github.com/aayushgupta-4341/MINOR-INDUSTRY-PROJECT.git
+
+
 
 Evaluation Coverage
 -----------------------------------------------------------------------------|
@@ -126,6 +129,7 @@ Deployment & Documentation | ✅ Ready-to-deploy, professional README         |
 
 This project prioritizes structure, maintainability, and professional execution over decorative design, fulfilling internship requirements.
 
+
 🔹 References / Inspiration
 
 TCS Corporate Website
@@ -139,5 +143,5 @@ Used for layout structure, professional UI inspiration, and lead form implementa
 
 🔹 Author
 
-Aayush Gupta – Full Stack Web Development Intern – January 2026 Batch
+Aayush Gupta 
 Email: ayushgupta69904@gmail.com
