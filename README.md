@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project is developed as part of the **Web Development Internship Program (Minor Industry Project)**.
 
@@ -17,13 +17,13 @@ It simulates a real-world client requirement where a company needs a structured 
 
 ---
 
-## 🎯 Project Duration
+## Project Duration
 
 **Duration:** 8–10 Days
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * HTML5 (Semantic Markup)
 * CSS3 (Flexbox & Grid)
@@ -32,7 +32,7 @@ It simulates a real-world client requirement where a company needs a structured 
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 project/
@@ -47,25 +47,25 @@ project/
 
 ---
 
-## ⚙️ Core Features
+## Core Features
 
-* 🏠 Professional Hero Section with Call-to-Action
-* 💼 Services Overview Section
-* 💬 Testimonials Section
-* 📂 Case Study / Work Showcase Section
-* 📩 Lead Capture Form with:
-
+* Professional Hero Section with Call-to-Action
+* Services Overview Section
+* Testimonials Section
+* Case Study / Work Showcase Section
+* Lead Capture Form with:
   * Required field validation
   * Email format validation
   * Consent checkbox validation
-* ✅ Success message on form submission
-* 🔄 Smooth scrolling navigation
-* 📱 Fully responsive design
-* 📂 Clean and organized folder structure
+    
+* Success message on form submission
+* Smooth scrolling navigation
+* Fully responsive design
+* Clean and organized folder structure
 
 ---
 
-## 🧠 Implementation Approach
+## Implementation Approach
 
 * Used semantic HTML for structured layout
 * Applied modular CSS for maintainability
@@ -75,13 +75,13 @@ project/
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 > Deployed using Vercel / Netlify
 
 ---
 
-## 🔗 Project Links
+## Project Links
 
 * GitHub Repository:
   https://github.com/aayushgupta-4341/MINOR-INDUSTRY-PROJECT.git
@@ -93,7 +93,7 @@ project/
 
 ---
 
-## 📊 Evaluation Criteria Covered
+## Evaluation Criteria Covered
 
 * Code Quality & Structure
 * UI Professionalism
@@ -103,13 +103,13 @@ project/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Aayush Gupta**
 Web Development Internship – 2026
 
 ---
 
-## ⚠️ Note
+## Note
 
 This project is built as an **industry simulation** and follows professional UI/UX and development practices.
