@@ -7,147 +7,109 @@
 
 ---
 
-## 🔹 Project Overview
+## 🚀 Project Overview
 
-NexoraTech is a **modern, responsive corporate website** built for a technology services company to strengthen its **digital presence** and generate **qualified business leads**.  
+This project is developed as part of the **Web Development Internship Program (Minor Industry Project)**.
 
-The website demonstrates **professional UI/UX standards**, **production-ready front-end coding**, and **industry-grade best practices**.  
+The objective of this project is to design and develop a **professional corporate website** that enhances digital presence and captures user leads effectively.
 
-It is designed as a **client-ready project simulation** to showcase the following capabilities:
-
-- Semantic and structured HTML5 layout  
-- Modular and maintainable CSS with Flexbox and Bootstrap 5 grid  
-- Responsive mobile-first design  
-- Interactive JavaScript validation for lead capture form  
-- Smooth scrolling and professional UI interactions  
-
-This project simulates a **real client delivery engagement**.
+It simulates a real-world client requirement where a company needs a structured and responsive website to showcase services and collect inquiries.
 
 ---
 
-## 🔹 Key Features
+## 🎯 Project Duration
 
-1. **Professional Hero Section**  
-   - Engaging call-to-action  
-   - Full-screen hero background image  
-   - Mobile-friendly typography  
-
-2. **Services Overview Section**  
-   - 3 main service cards: Web Development, Cloud Solutions, UI/UX Design  
-   - Bootstrap responsive grid  
-   - Hover animation on cards  
-
-3. **Case Study / Work Showcase Section**  
-   - Example project: E-commerce platform  
-   - Image + description layout  
-   - Fully responsive  
-
-4. **Testimonials Section**  
-   - 3 client testimonials  
-   - Shadow cards for visual hierarchy  
-   - Mobile responsive stack  
-
-5. **Lead Capture Form**  
-   - Name, Email, Message fields  
-   - Consent checkbox  
-   - JavaScript validation:  
-     - Required fields  
-     - Email format validation  
-     - Consent checkbox validation  
-   - Success confirmation message  
-
-6. **Smooth Navigation Scrolling**  
-   - Mobile-first, smooth scrolling between sections  
-
-7. **Footer Section**  
-   - Company copyright  
-   - Professional and minimal  
+**Duration:** 8–10 Days
 
 ---
 
-## 🔹 Innovation / Industry-Level Practices
+## 🛠️ Tech Stack
 
-- **Semantic HTML5** used for accessibility and SEO  
-- **Bootstrap 5 Grid & Flexbox** for professional responsiveness  
-- **Mobile-first approach**: Fully functional on mobile, tablet, and desktop  
-- **Modular CSS & Organized Folder Structure** for maintainability  
-- **Clean Code Standards** to demonstrate professional front-end practices  
-- **JavaScript Form Validation** simulating real-world lead capture forms  
-- **Smooth UX/UI** interactions suitable for corporate websites  
+* HTML5 (Semantic Markup)
+* CSS3 (Flexbox & Grid)
+* Bootstrap 5
+* JavaScript (ES6)
 
 ---
 
-## 🔹 Technology Stack
----------------------------------------------------------------
-| Front-End        |               Purpose                     |
-|------------------|-------------------------------------------|
-| HTML5            | Semantic markup & structure               |
-| CSS3             | Styling & responsiveness                  |
-| Bootstrap 5      | Grid system & responsive UI components    |
-| JavaScript (ES6) | Lead form validation & interactivity      |
-----------------------------------------------------------------
----
-
-## 🔹 Folder Structure
-```plaintext
-
-corporate-website/
-│
-├── index.html          # Main landing page
-├── css/
-│   └── style.css       # Modular CSS file
-├── js/
-│   └── script.js       # JavaScript validation logic
-├── assets/
-│   ├── images/         # Hero, service, case study, testinomial images
-│   └── logo/           # Company logo
-└── README.md           # This documentation
+## 📁 Folder Structure
 
 ```
-
-
-🔹 Deployment
-This website is ready for deployment on Vercel or Netlify.
-
-Live Demo Link (Vercel):
-https://minor-industry-project-fronted.vercel.app/
-
-GitHub Repository Link:
-https://github.com/aayushgupta-4341/MINOR-INDUSTRY-PROJECT.git
-
-
-
-
-```plaintext
-Evaluation Coverage
-------------------------------------------------------------------------------- 
-Criteria	                  |             Covered?                            
-------------------------------------------------------------------------------- 
-Code Quality & Structure   | ✅ Semantic HTML5, modular CSS, organized folder    
-UI Professionalism	      | ✅ Hero, services, case studies, testimonials     
-Responsiveness	            | ✅ Mobile-first, Bootstrap 5 grid, media queries
-JavaScript Logic	         | ✅ Lead form validation, success messages         
-Deployment & Documentation | ✅ Ready-to-deploy, professional README         
---------------------------------------------------------------------------------
-
-This project prioritizes structure, maintainability, and professional execution over decorative design, fulfilling internship requirements.
-
+project/
+ ├── index.html
+ ├── css/
+ │    └── style.css
+ ├── js/
+ │    └── script.js
+ └── assets/
+      └── images/
 ```
 
+---
 
-🔹 References / Inspiration
+## ⚙️ Core Features
 
-TCS Corporate Website
+* 🏠 Professional Hero Section with Call-to-Action
+* 💼 Services Overview Section
+* 💬 Testimonials Section
+* 📂 Case Study / Work Showcase Section
+* 📩 Lead Capture Form with:
 
-Infosys Corporate Website
+  * Required field validation
+  * Email format validation
+  * Consent checkbox validation
+* ✅ Success message on form submission
+* 🔄 Smooth scrolling navigation
+* 📱 Fully responsive design
+* 📂 Clean and organized folder structure
 
-Accenture Corporate Website
+---
 
-Used for layout structure, professional UI inspiration, and lead form implementation approach. All code is original and implemented by the developer.
+## 🧠 Implementation Approach
 
+* Used semantic HTML for structured layout
+* Applied modular CSS for maintainability
+* Implemented Bootstrap grid for responsiveness
+* Added JavaScript for form validation logic
+* Ensured mobile-first responsive design
 
+---
 
-🔹 Author
+## 🚀 Deployment
 
-Aayush Gupta 
-Email: ayushgupta69904@gmail.com
+> Deployed using Vercel / Netlify
+
+---
+
+## 🔗 Project Links
+
+* GitHub Repository:
+  https://github.com/aayushgupta-4341/MINOR-INDUSTRY-PROJECT.git
+
+* Live Deployment:
+      https://minor-industry-project-fronted.vercel.app/
+
+    
+
+---
+
+## 📊 Evaluation Criteria Covered
+
+* Code Quality & Structure
+* UI Professionalism
+* Responsiveness
+* JavaScript Validation Logic
+* Deployment & Documentation
+
+---
+
+## 👨‍💻 Author
+
+**Aayush Gupta**
+Web Development Internship – 2026
+
+---
+
+## ⚠️ Note
+
+This project is built as an **industry simulation** and follows professional UI/UX and development practices.
